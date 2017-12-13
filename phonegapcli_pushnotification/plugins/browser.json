@@ -1,0 +1,76 @@
+{
+    "prepare_queue": {
+        "installed": [],
+        "uninstalled": []
+    },
+    "config_munge": {
+        "files": {}
+    },
+    "installed_plugins": {
+        "cordova-plugin-battery-status": {
+            "PACKAGE_NAME": "me.vijayakumaranv.phonegapcli_pushnotification"
+        },
+        "cordova-plugin-camera": {
+            "PACKAGE_NAME": "me.vijayakumaranv.phonegapcli_pushnotification"
+        },
+        "cordova-plugin-media-capture": {
+            "PACKAGE_NAME": "me.vijayakumaranv.phonegapcli_pushnotification"
+        },
+        "cordova-plugin-console": {
+            "PACKAGE_NAME": "me.vijayakumaranv.phonegapcli_pushnotification"
+        },
+        "cordova-plugin-contacts": {
+            "PACKAGE_NAME": "me.vijayakumaranv.phonegapcli_pushnotification"
+        },
+        "cordova-plugin-device": {
+            "PACKAGE_NAME": "me.vijayakumaranv.phonegapcli_pushnotification"
+        },
+        "cordova-plugin-device-motion": {
+            "PACKAGE_NAME": "me.vijayakumaranv.phonegapcli_pushnotification"
+        },
+        "cordova-plugin-device-orientation": {
+            "PACKAGE_NAME": "me.vijayakumaranv.phonegapcli_pushnotification"
+        },
+        "cordova-plugin-dialogs": {
+            "PACKAGE_NAME": "me.vijayakumaranv.phonegapcli_pushnotification"
+        },
+        "cordova-plugin-file-transfer": {
+            "PACKAGE_NAME": "me.vijayakumaranv.phonegapcli_pushnotification"
+        },
+        "cordova-plugin-geolocation": {
+            "PACKAGE_NAME": "me.vijayakumaranv.phonegapcli_pushnotification"
+        },
+        "cordova-plugin-globalization": {
+            "PACKAGE_NAME": "me.vijayakumaranv.phonegapcli_pushnotification"
+        },
+        "cordova-plugin-inappbrowser": {
+            "PACKAGE_NAME": "me.vijayakumaranv.phonegapcli_pushnotification"
+        },
+        "cordova-plugin-media": {
+            "PACKAGE_NAME": "me.vijayakumaranv.phonegapcli_pushnotification"
+        },
+        "cordova-plugin-network-information": {
+            "PACKAGE_NAME": "me.vijayakumaranv.phonegapcli_pushnotification"
+        },
+        "cordova-plugin-splashscreen": {
+            "PACKAGE_NAME": "me.vijayakumaranv.phonegapcli_pushnotification"
+        },
+        "cordova-plugin-statusbar": {
+            "PACKAGE_NAME": "me.vijayakumaranv.phonegapcli_pushnotification"
+        },
+        "cordova-plugin-vibration": {
+            "PACKAGE_NAME": "me.vijayakumaranv.phonegapcli_pushnotification"
+        },
+        "cordova-plugin-whitelist": {
+            "PACKAGE_NAME": "me.vijayakumaranv.phonegapcli_pushnotification"
+        },
+        "pushbots-cordova-plugin": {
+            "PACKAGE_NAME": "me.vijayakumaranv.phonegapcli_pushnotification"
+        }
+    },
+    "dependent_plugins": {
+        "cordova-plugin-file": {
+            "PACKAGE_NAME": "me.vijayakumaranv.phonegapcli_pushnotification"
+        }
+    }
+}
